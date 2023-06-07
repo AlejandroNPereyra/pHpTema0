@@ -1,2 +1,1 @@
-# pHpTema0Exercici1
-Nivel1
+# pHpTema0
